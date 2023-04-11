@@ -12,9 +12,8 @@
 
 
 ## Techs
-- C#
-- Java
 - Python
+- Django
 - SQL Server, MySql and PostgreSQL
 - Git and GitHub
 - Windows Forms
