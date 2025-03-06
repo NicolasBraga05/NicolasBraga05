@@ -1,28 +1,40 @@
-## ♨️ Nicolas Braga
+# 💻 Nicolas Braga
 
-<div> 
-    <a href="https://instagram.com/bragxzx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:devnicolas.work@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nicolas-braga-104815252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bragxzx)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devnicolas.work@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-braga-104815252/)
 
+---
 
-## About me
+## 👨‍💻 About Me
 
+🚀 Passionate developer always looking for new challenges and learning opportunities. I am focused on expanding my knowledge across multiple programming languages and frameworks. I strive for perfection in my projects and continuously work to improve my coding skills.
 
-## Techs
-- Python
-- Django
-- SQL
-- NoSQL
-- Git and GitHub
-- Nest.js
-- Node.js
-- TypeScript/JavaScript
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg%22%3E
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg%22%3E
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg%22%3E
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg%22%3E
-</div>
+---
+
+## 🛠 Tech Stack
+
+### 🚀 Languages & Frameworks
+- **Python** | **Django**
+- **TypeScript** | **JavaScript**
+- **Node.js** | **Nest.js**
+- **SQL** | **NoSQL**
+- **C** | **C#** | **Java**
+
+### 🔧 Tools & Technologies
+- **Git & GitHub**
+- **RESTful APIs**
+- **Docker & CI/CD**
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced **Backend Development** with **Nest.js**
+- **System Architecture & Scalability**
+- 
+---
+
+## 📫 Get in Touch
+📩 Feel free to reach out through [email](mailto:devnicolas.work@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/nicolas-braga-104815252/). Let's collaborate and build something amazing! 🚀
+
