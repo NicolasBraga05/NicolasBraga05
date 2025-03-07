@@ -14,12 +14,12 @@
 
 ## 🛠 Tech Stack
 
-### 🚀 Languages & Frameworks
+### 🚀 Languages
 - **Python** | **Django**
 - **TypeScript** | **JavaScript**
-- **Node.js** | **Nest.js**
+- **Node.js** | **Nest.js & Express.js**
 - **SQL** | **NoSQL**
-- **C** | **C#** | **Java**
+- **Sequelize & Mongoose**
 
 ### 🔧 Tools & Technologies
 - **Git & GitHub**
@@ -32,7 +32,6 @@
 
 - Advanced **Backend Development** with **Nest.js**
 - **System Architecture & Scalability**
-- 
 ---
 
 ## 📫 Get in Touch
