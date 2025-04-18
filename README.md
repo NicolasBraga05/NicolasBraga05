@@ -16,7 +16,7 @@
 
 ### 🚀 Languages
 - **Python** | **Django**
-- **TypeScript** | **JavaScript**
+- **JavaScript** | **TypeScript**
 - **Node.js** | **Nest.js & Express.js**
 - **SQL** | **NoSQL**
 - **Sequelize & Mongoose**
