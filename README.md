@@ -16,15 +16,24 @@
 
 ### 🚀 Languages
 - **Python** | **Django**
-- **JavaScript** | **TypeScript**
-- **Node.js** | **Nest.js & Express.js**
-- **SQL** | **NoSQL**
-- **Sequelize & Mongoose**
+- **Java**
+- **JavaScript**
+- **TypeScript**
+- **Node.js**
+- **Nest.js**
+- **Express.js**
+- **SQL**
+- **NoSQL**
+- **Sequelize**
+- **Mongoose**
+- **React**
+- **ReactNative**
 
 ### 🔧 Tools & Technologies
 - **Git & GitHub**
 - **RESTful APIs**
 - **Docker & CI/CD**
+- **RabbitMQ**
 
 ---
 
