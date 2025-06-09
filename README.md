@@ -34,6 +34,7 @@
 - **RESTful APIs**
 - **Docker & CI/CD**
 - **RabbitMQ**
+- **AWS**
 
 ---
 
