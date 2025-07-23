@@ -71,9 +71,10 @@ Desenvolvedor apaixonado por resolver problemas e transformar ideias em soluçõ
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasBraga05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBraga05&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-snowy-93.vercel.app/api?username=NicolasBraga05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-eight-snowy-93.vercel.app/api/top-langs/?username=NicolasBraga05&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
