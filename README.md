@@ -2,7 +2,7 @@
 
 <h1 align="center">👨‍💻 Nicolas Braga</h1>
 <p align="center">
-  <i>Back-end Developer · Code Enthusiast · Tech Explorer</i>
+  <i>FullStack Developer · Code Enthusiast · Tech Explorer</i>
 </p>
 
 <p align="center">
