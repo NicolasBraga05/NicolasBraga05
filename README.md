@@ -75,7 +75,7 @@ Sou um desenvolvedor back-end apaixonado por resolver problemas reais com tecnol
 ## 🌆 GitHub Skyline
 
 <p align="center">
-  <img src="assets/skyline-2025.png" width="600" alt="GitHub Skyline 2025">
+ 
 </p>
 
 
