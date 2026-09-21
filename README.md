@@ -139,62 +139,6 @@ I'm particularly interested in:
 * Legacy system modernization
 * Multi-tenant and hybrid architectures
 
----
-
-## 💼 Experience
-
-### Software Engineer — Kasco AI
-
-**Dec  2025 — Present**
-
-* Designed a high-performance query architecture for **millions of records** using Node.js, PostgreSQL and the Transactional Outbox pattern.
-* Reduced reporting query execution time by **more than 90%**.
-* Built a mathematical recalculation engine from scratch, improving calculation-intensive workflows by approximately **60%**.
-* Modernized legacy systems toward **multi-tenant, offline-first, on-premises and hybrid architectures**.
-* Implemented automated releases through CI/CD for **24/7 industrial production environments**.
-* Worked directly with clients on requirements, troubleshooting and production support.
-
-### Full Stack Developer — SurfCode
-
-**Apr 2024 — Dec 2025**
-
-* Built RESTful microservices using **NestJS and TypeScript**.
-* Implemented asynchronous data-processing workflows with **RabbitMQ and Kafka**.
-* Optimized database queries and data-processing flows.
-* Worked with **MySQL, PostgreSQL, MongoDB and Redis**.
-* Developed applications with **React and React Native**.
-* Worked with **Docker, AWS EC2, AWS Lambda, automated testing and CI/CD**.
-
-### Full Stack Developer — ROMAVI
-
-**Feb 2024 — Apr 2024**
-
-* Automated payment and invoicing workflows using **Python**.
-* Reduced payment processing time by approximately **40%**.
-* Developed a React landing page and supporting application features.
-
-### Backend Developer — Nicolas Consulting
-
-**Aug 2023 — Jan 2024**
-
-* Developed RESTful microservices using **NestJS and Java/Spring Boot**.
-* Implemented **RabbitMQ** messaging for reliable inter-service communication.
-
----
-
-## 🎓 Education
-
-**Technologist in Data Science**
-Anhanguera Educacional · 2023 — 2025
-
-**English Language Exchange**
-Florida Institute of Technology · Sep 2025 — Dec 2025
-🏆 Outstanding Student Award
-
-**English:** Advanced — professional working proficiency
-
----
-
 ## 📊 GitHub Activity
 
 <p align="center">
