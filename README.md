@@ -1,7 +1,11 @@
 <h1 align="center">Nicolas Braga</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=9ECE6A&center=true&vCenter=true&width=640&lines=full+stack+software+engineer;backend-focused+%C2%B7+typescript;distributed+systems+%C2%B7+data+workflows;production+systems+that+stay+up" alt="full stack software engineer, backend-focused" />
+  <strong>Backend Engineer · Distributed Systems</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=9ECE6A&center=true&vCenter=true&width=640&lines=full+stack+when+the+product+needs+it;node.js+%C2%B7+nestjs+%C2%B7+typescript;production+systems+that+stay+up" alt="Full stack when the product needs it" />
 </p>
 
 <p align="center">
@@ -24,7 +28,7 @@
 
 ## About
 
-Full stack software engineer with **3+ years** of experience, focused on backend work with **Node.js, NestJS, and TypeScript**.
+Backend engineer with **3+ years** of experience, working on distributed systems with **Node.js, NestJS, and TypeScript**. Full stack when the product needs it.
 
 I build **scalable distributed systems, high-performance data workflows, and production applications**, and I care about architecture, reliability, and performance.
 
@@ -39,8 +43,8 @@ Right now that means systems with **millions of records, multi-tenant architectu
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>+90%</h3>
-      <p>Faster reporting queries across millions of records.</p>
+      <h3>15min → 46s</h3>
+      <p>Report generation over 100 million+ records.</p>
     </td>
     <td align="center" width="50%">
       <h3>~60%</h3>
@@ -58,6 +62,14 @@ Right now that means systems with **millions of records, multi-tenant architectu
     </td>
   </tr>
 </table>
+
+---
+
+## Work
+
+**Report generation · 100 million+ records**
+
+A production report over more than 100 million records took 15 minutes to generate. After the optimization it finishes in 46 seconds — about 20× faster.
 
 ---
 
