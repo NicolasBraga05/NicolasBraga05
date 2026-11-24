@@ -1,11 +1,11 @@
 <h1 align="center">Nicolas Braga</h1>
 
 <p align="center">
-  <strong>Full Stack Software Engineer · Backend-Focused · Distributed Systems</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=9ECE6A&center=true&vCenter=true&width=640&lines=full+stack+software+engineer;backend-focused+%C2%B7+typescript;distributed+systems+%C2%B7+data+workflows;production+systems+that+stay+up" alt="full stack software engineer, backend-focused" />
 </p>
 
 <p align="center">
-  Building scalable systems, high-performance data workflows and production-ready applications.
+  Building scalable systems, high-performance data workflows, and production-ready applications.
 </p>
 
 <p align="center">
@@ -22,175 +22,109 @@
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a **Full Stack Software Engineer with 3+ years of experience**, specializing in backend development with **Node.js, NestJS and TypeScript**.
+Full stack software engineer with **3+ years** of experience, focused on backend work with **Node.js, NestJS, and TypeScript**.
 
-My work focuses on building **scalable distributed systems, high-performance data workflows and production applications**, with a strong interest in software architecture, system reliability and performance optimization.
+I build **scalable distributed systems, high-performance data workflows, and production applications**, and I care about architecture, reliability, and performance.
 
-I enjoy solving complex engineering problems — from database bottlenecks and asynchronous processing to distributed system consistency and legacy system modernization.
+The problems I like sit in the hard parts of the stack: database bottlenecks, asynchronous processing, consistency in distributed systems, and modernizing legacy software.
 
-Currently, I'm working on systems involving **millions of records, multi-tenant architectures, offline-first environments and hybrid/on-premises deployments**.
+Right now that means systems with **millions of records, multi-tenant architectures, offline-first environments, and hybrid / on-premises deployments**.
 
 ---
 
-## ⚡ Engineering Highlights
+## Highlights
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🚀 +90%</h3>
-      <p>Reduction in reporting query execution time across millions of records.</p>
+      <h3>+90%</h3>
+      <p>Faster reporting queries across millions of records.</p>
     </td>
     <td align="center" width="50%">
-      <h3>⚡ ~60%</h3>
-      <p>Performance improvement in calculation-intensive processing workflows.</p>
+      <h3>~60%</h3>
+      <p>Faster calculation-heavy processing workflows.</p>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>🏭 24/7</h3>
-      <p>Production environments receiving backward-compatible CI/CD releases.</p>
+      <h3>24/7</h3>
+      <p>Production releases shipped backward-compatible through CI/CD.</p>
     </td>
     <td align="center" width="50%">
-      <h3>📦 Distributed Systems</h3>
-      <p>Microservices, asynchronous processing and event-driven architectures.</p>
+      <h3>Distributed</h3>
+      <p>Microservices, async processing, and event-driven architectures.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧠 What I Work With
+## Stack
 
 ### Backend
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,py,java,spring&perline=7" alt="Node.js, NestJS, TypeScript, JavaScript, Python, Java, Spring Boot" />
 </p>
 
 ### Frontend
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs&perline=2" alt="React, Next.js" />
+  <br/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
 
-### Data & Messaging
+### Data & messaging
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq&perline=6" alt="PostgreSQL, MySQL, MongoDB, Redis, Kafka, RabbitMQ" />
 </p>
 
-### Architecture & Engineering
+### Cloud & delivery
 
-<p>
-  <img src="https://img.shields.io/badge/Clean_Architecture-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/DDD-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/SOLID-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/Design_Patterns-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/TDD-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/Transactional_Outbox-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/Microservices-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/Distributed_Systems-333333?style=flat-square" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git&perline=3" alt="AWS, Docker, Git" />
+  <br/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="AWS EC2" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda" />
+  <img src="https://img.shields.io/badge/CI%2FCD-7AA2F7?style=flat-square" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-7AA2F7?style=flat-square" alt="OAuth 2.0" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 </p>
 
-### Cloud, DevOps & Security
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth_2.0-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<p align="center">
+  <code>clean architecture</code> · <code>ddd</code> · <code>solid</code> · <code>design patterns</code> · <code>tdd</code> · <code>transactional outbox</code> · <code>microservices</code>
 </p>
 
 ---
 
-## 🏗️ Engineering Focus
-
-I'm particularly interested in:
-
-* Distributed systems and microservices
-* High-performance data processing
-* Database optimization
-* Event-driven architectures
-* Asynchronous workflows
-* System consistency and reliability
-* Clean Architecture and Domain-Driven Design
-* Scalable backend APIs
-* Automated testing and TDD
-* CI/CD and production deployments
-* Legacy system modernization
-* Multi-tenant and hybrid architectures
-
-## 📊 GitHub Activity
+## GitHub
 
 <p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats-eight-snowy-93.vercel.app/api?username=NicolasBraga05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats-eight-snowy-93.vercel.app/api/top-langs/?username=NicolasBraga05&layout=compact&theme=tokyonight&hide_border=true"
-  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NicolasBraga05&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&rank_icon=github&hide=issues,prs,contribs" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBraga05&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6&card_width=320" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=NicolasBraga05&theme=tokyonight&no-frame=true&margin-w=10&column=7"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasBraga05&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=7aa2f7&line=7dcfff&point=bb9af7" alt="Contribution graph" />
 </p>
 
 ---
 
-## 🚀 Featured Interests
+## Focus
 
 ```text
 Backend Engineering
-        │
-        ├── Distributed Systems
-        ├── Microservices
-        ├── Event-Driven Architecture
-        ├── Data Processing
-        ├── Database Performance
-        └── System Reliability
-                │
-                ▼
-        Production-Ready Software
-```
-
----
-
-## 🌎 Let's Connect
-
-I'm always interested in discussing **software architecture, backend engineering, distributed systems, performance optimization and interesting technical challenges**.
-
-<p align="center">
-  <a href="mailto:devnicolas.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nicolas-braga-dev10/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Building systems that scale. Solving problems that matter.</i>
-</p>
+│
+├── Distributed Systems
+├── Microservices
+├── Event-Driven Architecture
+├── Data Processing
+├── Database Performance
+└── System Reliability
+         │
+         ▼
+   Production-Ready Software
